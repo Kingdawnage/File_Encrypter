@@ -1,0 +1,7 @@
+{
+  "name": "fileencrypter",
+  "version-string": "1",
+  "dependencies": [
+    "openssl"
+  ]
+}
